@@ -3,7 +3,6 @@ WORKING Telugu Corpus Collector - All Fixed Issues
 Author: Fixed for Viswam.ai SOAI 2025
 Purpose: Single file, no imports, everything works
 """
-
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
